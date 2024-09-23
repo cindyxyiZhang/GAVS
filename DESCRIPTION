@@ -1,4 +1,4 @@
-Package: GA
+Package: GAVS
 Type: Package
 Title: Variable Selection via Genetic Algorithm
 Version: 0.1.0
